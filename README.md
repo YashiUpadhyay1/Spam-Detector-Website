@@ -73,25 +73,25 @@ Paste these messages to test the model:
 ```bash
 git clone https://github.com/YashiUpadhyay1/Spam-Detector-Website.git
 
-2. Navigate into the project
+###2. Navigate into the project
 
 cd Spam-Detector-Website/backend
 
-3. Install dependencies
+###3. Install dependencies
 
 pip install flask pandas scikit-learn transformers
 
-4. Run the app
+###4. Run the app
 
 python app.py
 
-5. Visit in your browser
+###5. Visit in your browser
 
 http://127.0.0.1:5000
 
 ---
 
-🙏 Credits
+##🙏 Credits
 📊 Dataset: UCI SMS Spam Dataset
 
 🤖 NLP Model: DistilBERT via HuggingFace
