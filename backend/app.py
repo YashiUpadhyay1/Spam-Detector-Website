@@ -1,3 +1,10 @@
+"""
+PROJECT OVERVIEW: :
+This spam detection model is trained dynamically using spam.csv (original UCI SMS Spam Collection).
+No hardcoded results. All predictions are based on live vectorization + classification.
+"""
+
+
 from flask import Flask, render_template, request, jsonify, redirect, url_for, session
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
