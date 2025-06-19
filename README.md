@@ -68,27 +68,31 @@ Paste these messages to test the model:
 
 ## 🚀 Run Locally
 
-### 1. Clone the repository
-
-```bash
+✅ 1. Clone the Repository
+bash
+Copy
+Edit
 git clone https://github.com/YashiUpadhyay1/Spam-Detector-Website.git
-
-###2. Navigate into the project
-
+📂 2. Navigate into the Project
+bash
+Copy
+Edit
 cd Spam-Detector-Website/backend
-
-###3. Install dependencies
-
+📦 3. Install Dependencies
+bash
+Copy
+Edit
 pip install flask pandas scikit-learn transformers
-
-###4. Run the app
-
+▶️ 4. Run the App
+bash
+Copy
+Edit
 python app.py
-
-###5. Visit in your browser
-
+🌐 5. Visit in Your Browser
+cpp
+Copy
+Edit
 http://127.0.0.1:5000
-
 ---
 
 ##🙏 Credits
